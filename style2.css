@@ -1,0 +1,93 @@
+body{
+    background-color: skyblue;
+
+
+}
+
+p{
+    color: brown;
+    font-weight: bold;
+    font-size: 30px; 
+
+} 
+
+h1{
+    color: blue;
+
+}
+
+#p1{
+    color: green;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.alireza{
+
+    color: orange;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+table{
+    background-color: green;
+    width: 100%;
+    margin-top: 100px;
+    margin-bottom: 60px;
+}
+
+table:hover{
+    background-color: skyblue;
+}
+
+th{
+    padding: 10px;
+    text-align: center;
+    color: blue;
+    background-color: gray;
+}
+
+td{
+    padding: 10px;
+    TEXT-align: center;
+    font-size: 15px;
+    font-weight: bold;
+
+}
+
+a{
+    color: yellow;
+    background-color: cadetblue;
+    font-size: 30px;
+
+}
+
+a:hover{
+    background-color: green;
+}
+
+#image1,#image2{
+    width: 400px;
+    height: auto;
+}
+
+#image1:hover{
+    width: 600px
+}
+
+#ulHolder{
+    background-color: green;
+    padding: 10px;
+    margin-bottom: 50px;
+}
+
+#olHolder{
+    background-color: blueviolet;
+    padding: 20px;
+}
+
+#ulHolder ul{
+    list-style-type: none;
+
+}
+
